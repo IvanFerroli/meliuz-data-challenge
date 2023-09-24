@@ -1,4 +1,6 @@
 import pandas as pd
+from src.relatorios import relatorio_lojas_categorias
+
 
 def contar_lojas(df):
     quantidade_lojas = df['Parceiro'].nunique()

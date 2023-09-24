@@ -1,4 +1,6 @@
 import pandas as pd
+from src.relatorios import relatorio_variacao_lojas
+
 
 def maior_pico_vendas(df):
     max_vendas = df.groupby('Parceiro')['Nº de vendas'].max()
@@ -15,3 +17,4 @@ def representatividade_acoes_promocionais(df):
     total_vendas = df['Nº de vendas'].sum()
     representatividade = (total_vendas_acoes_promocionais / total_vendas) * 100
     return representatividade
+    

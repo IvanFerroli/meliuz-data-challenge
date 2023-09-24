@@ -1,0 +1,2 @@
+from ..relatorios.relatorio_variacao_lojas import gerar_relatorio_variacao_lojas
+from ..relatorios.relatorio_lojas_categorias import gerar_relatorio_lojas_categorias
