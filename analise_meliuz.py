@@ -12,5 +12,3 @@ print(f'Quantidade de Lojas: {quantidade_lojas}')
 print(f'Quantidade de Categorias: {quantidade_categorias}')
 print(f'Média de Conversão: {media_conversao}')
 print(f'Média de Taxa de Confirmação: {media_taxa_confirmacao}')
-
-
