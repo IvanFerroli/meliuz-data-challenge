@@ -1,0 +1,173 @@
+Quantidade de Lojas,Quantidade de Categorias,Média de Conversão,Média de Conversão por Loja,Média de Taxa de Confirmação por Loja,Média de Taxa de Confirmação,Lojas com Desvios Significativos,Maior Pico de Vendas,Melhor Desempenho por Categoria,Pior Desempenho por Categoria,Representatividade de Ações Promocionais,GMV Total por Categoria e Mês,Dia com Maior Pico de Vendas
+21,7,0.12039441617832827,"Parceiro
+Parceiro-1335    0.086871
+Parceiro-1561    0.111626
+Parceiro-169     0.079782
+Parceiro-1785    0.072263
+Parceiro-1963    0.161107
+Parceiro-2       0.110703
+Parceiro-2171    0.076181
+Parceiro-220     0.110451
+Parceiro-233     0.201940
+Parceiro-262     0.119516
+Parceiro-395     0.129114
+Parceiro-463     0.210518
+Parceiro-49      0.148334
+Parceiro-51      0.121332
+Parceiro-525     0.110771
+Parceiro-6095    0.121790
+Parceiro-62      0.123418
+Parceiro-6539    0.112513
+Parceiro-7749    0.123899
+Parceiro-8152    0.155234
+Parceiro-82      0.054831
+Name: Conversao, dtype: float64","Parceiro
+Parceiro-1335    0.941283
+Parceiro-1561    0.515614
+Parceiro-169     0.716469
+Parceiro-1785    0.888471
+Parceiro-1963    0.829466
+Parceiro-2       0.821334
+Parceiro-2171    0.788046
+Parceiro-220     0.891229
+Parceiro-233     0.910007
+Parceiro-262     0.698019
+Parceiro-395     0.908460
+Parceiro-463     0.777865
+Parceiro-49      0.925912
+Parceiro-51      0.886644
+Parceiro-525     0.793093
+Parceiro-6095    0.557803
+Parceiro-62      0.918010
+Parceiro-6539    0.886154
+Parceiro-7749    0.273704
+Parceiro-8152    0.911421
+Parceiro-82      0.924800
+Name: Taxa de Confirmação, dtype: float64",0.8067488222346486,"Parceiro
+Parceiro-2      2722.111111
+Parceiro-220    1760.044444
+Parceiro-233    5169.600000
+Name: Nº de vendas, dtype: float64","Parceiro
+Parceiro-1335      177
+Parceiro-1561       27
+Parceiro-169        16
+Parceiro-1785       28
+Parceiro-1963       33
+Parceiro-2       12328
+Parceiro-2171      263
+Parceiro-220     13709
+Parceiro-233     14438
+Parceiro-262       792
+Parceiro-395       164
+Parceiro-463      1774
+Parceiro-49        465
+Parceiro-51        168
+Parceiro-525       153
+Parceiro-6095      172
+Parceiro-62         55
+Parceiro-6539       59
+Parceiro-7749       37
+Parceiro-8152       66
+Parceiro-82        213
+Name: Nº de vendas, dtype: int64","Categoria                 Parceiro     
+ALIMENTOS E BEBIDAS       Parceiro-7749       37
+BELEZA E SAÚDE            Parceiro-463      1774
+                          Parceiro-51        168
+ESPORTE E LAZER           Parceiro-525       153
+                          Parceiro-62         55
+LOJA DE DEPARTAMENTOS     Parceiro-1963       33
+                          Parceiro-2       12328
+                          Parceiro-2171      263
+                          Parceiro-220     13709
+                          Parceiro-233     14438
+                          Parceiro-8152       66
+                          Parceiro-82        213
+MODA E ACESSÓRIOS         Parceiro-1335      177
+                          Parceiro-169        16
+                          Parceiro-1785       28
+                          Parceiro-49        465
+                          Parceiro-6539       59
+MÓVEIS, CASA E DECORAÇÃO  Parceiro-395       164
+VIAGEM E TURISMO          Parceiro-1561       27
+                          Parceiro-262       792
+                          Parceiro-6095      172
+Name: Nº de vendas, dtype: int64","Categoria                 Parceiro     
+ALIMENTOS E BEBIDAS       Parceiro-7749       0
+BELEZA E SAÚDE            Parceiro-463      280
+                          Parceiro-51        13
+ESPORTE E LAZER           Parceiro-525       25
+                          Parceiro-62         3
+LOJA DE DEPARTAMENTOS     Parceiro-1963       2
+                          Parceiro-2          5
+                          Parceiro-2171       1
+                          Parceiro-220      256
+                          Parceiro-233     2120
+                          Parceiro-8152       0
+                          Parceiro-82        27
+MODA E ACESSÓRIOS         Parceiro-1335       7
+                          Parceiro-169        0
+                          Parceiro-1785       0
+                          Parceiro-49       118
+                          Parceiro-6539       3
+MÓVEIS, CASA E DECORAÇÃO  Parceiro-395       13
+VIAGEM E TURISMO          Parceiro-1561       3
+                          Parceiro-262      266
+                          Parceiro-6095      24
+Name: Nº de vendas, dtype: int64",11.536527195625586,"Categoria                 Ano-Mês
+ALIMENTOS E BEBIDAS       2022-01    R$ 0,00R$ 0,00R$ 0,00R$ 0,00R$ 0,00R$ 0,00R$ 0...
+                          2022-02    R$ 0,00R$ 0,00R$ 0,00R$ 0,00R$ 0,00R$ 0,00R$ 0...
+                          2022-03    R$ 884,40R$ 1.901,21R$ 907,60R$ 948,58R$ 916,9...
+                          2022-04    R$ 2.368,48R$ 917,55R$ 0,00R$ 4.230,79R$ 2.642...
+                          2022-05    R$ 240,40R$ 2.556,29R$ 3.891,07R$ 1.145,98R$ 2...
+BELEZA E SAÚDE            2022-01    R$ 44.954,56R$ 5.373,50R$ 89.659,42R$ 8.967,70...
+                          2022-02    R$ 135.524,82R$ 11.142,25R$ 167.529,64R$ 33.57...
+                          2022-03    R$ 91.960,28R$ 15.322,60R$ 99.865,48R$ 14.683,...
+                          2022-04    R$ 176.577,82R$ 13.289,60R$ 70.867,95R$ 3.502,...
+                          2022-05    R$ 110.033,93R$ 14.244,70R$ 162.627,47R$ 18.35...
+ESPORTE E LAZER           2022-01    R$ 13.006,05R$ 562,63R$ 17.921,97R$ 2.616,58R$...
+                          2022-02    R$ 28.393,36R$ 1.349,78R$ 20.502,55R$ 2.713,07...
+                          2022-03    R$ 18.603,47R$ 5.405,63R$ 14.237,08R$ 3.600,66...
+                          2022-04    R$ 19.889,91R$ 3.312,26R$ 13.113,47R$ 1.170,12...
+                          2022-05    R$ 20.279,01R$ 4.883,70R$ 28.864,39R$ 3.476,90...
+LOJA DE DEPARTAMENTOS     2022-01    R$ 6.491,66R$ 738.192,47R$ 101,92R$ 117.743,97...
+                          2022-02    R$ 8.544,85R$ 1.875.133,48R$ 15.782,97R$ 1.283...
+                          2022-03    R$ 38.160,51R$ 5.269.236,14R$ 51.059,18R$ 911....
+                          2022-04    R$ 30.328,35R$ 2.153.473,25R$ 678.312,08R$ 558...
+                          2022-05    R$ 13.393,90R$ 1.045.467,14R$ 982.306,67R$ 776...
+MODA E ACESSÓRIOS         2022-01    R$ 2.776,28R$ 1.599,00R$ 4.783,39R$ 23.190,34R...
+                          2022-02    R$ 55.371,50R$ 0,00R$ 16.038,12R$ 57.021,75R$ ...
+                          2022-03    R$ 9.472,50R$ 8.548,00R$ 3.755,43R$ 64.529,95R...
+                          2022-04    R$ 129.778,00R$ 37.459,00R$ 3.726,83R$ 72.744,...
+                          2022-05    R$ 30.872,50R$ 24.978,00R$ 5.332,43R$ 105.355,...
+MÓVEIS, CASA E DECORAÇÃO  2022-01    R$ 13.879,34R$ 16.337,95R$ 22.842,54R$ 12.731,...
+                          2022-02    R$ 31.392,73R$ 10.819,58R$ 48.040,35R$ 32.474,...
+                          2022-03    R$ 27.289,55R$ 27.601,25R$ 16.108,00R$ 26.047,...
+                          2022-04    R$ 32.244,44R$ 25.973,81R$ 36.932,78R$ 39.695,...
+                          2022-05    R$ 13.100,84R$ 23.333,85R$ 20.401,13R$ 25.130,...
+VIAGEM E TURISMO          2022-01    R$ 7.842,22R$ 290.155,50R$ 4.564,91R$ 23.697,7...
+                          2022-02    R$ 10.619,56R$ 557.693,31R$ 5.921,56R$ 23.696,...
+                          2022-03    R$ 27.758,15R$ 520.132,27R$ 2.495,03R$ 17.177,...
+                          2022-04    R$ 10.955,06R$ 545.666,11R$ 7.477,68R$ 17.466,...
+                          2022-05    R$ 13.467,51R$ 1.075.752,37R$ 6.360,90R$ 32.99...
+Name: GMV, dtype: object","           Parceiro       Data
+922   Parceiro-1335 2022-02-17
+1484  Parceiro-1561 2022-03-16
+2073   Parceiro-169 2022-04-13
+220   Parceiro-1785 2022-01-12
+2537  Parceiro-1963 2022-05-05
+123      Parceiro-2 2022-01-07
+1007  Parceiro-2171 2022-02-21
+125    Parceiro-220 2022-01-07
+1302   Parceiro-233 2022-03-07
+1471   Parceiro-262 2022-03-15
+1619   Parceiro-395 2022-03-22
+1809   Parceiro-463 2022-03-31
+2461    Parceiro-49 2022-05-01
+2021    Parceiro-51 2022-04-10
+251    Parceiro-525 2022-01-13
+2653  Parceiro-6095 2022-05-10
+2654    Parceiro-62 2022-05-10
+1332  Parceiro-6539 2022-03-08
+1480  Parceiro-7749 2022-03-15
+1481  Parceiro-8152 2022-03-15
+1062    Parceiro-82 2022-02-23"
